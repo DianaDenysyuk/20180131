@@ -4,11 +4,11 @@ void tringle(int high = 12);
 
 void main()
 {
-	/*int high;
+	int high;
 	cout << "Enter height ";
 	cin >> high;
-	system("cls");*/
-	tringle();
+	system("cls");
+	tringle(high);
 }
 
 void tringle(int high)
